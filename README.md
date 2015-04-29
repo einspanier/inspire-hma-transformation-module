@@ -1,5 +1,5 @@
 # inspire-hma-transformation-module
-Java Servlet-based transformation of HMA collection metadata to INSPIRE metadata and vice versa
+Java Servlet-based transformation between HMA (OGC) Catalogue Services Web ebRIM (I15 EP) and INSPIRE Discovery Service and vice versa
 
 ## Description
 In Europe it is important to retain interoperability of Metadata Discovery Services with the INSPIRE Metadata Rules (RD3) and the INSPIRE Discovery Service (DS) (RD5). 
