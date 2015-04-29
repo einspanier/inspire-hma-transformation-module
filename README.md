@@ -3,7 +3,7 @@ Java Servlet-based transformation of HMA collection metadata to INSPIRE metadata
 
 ## Description
 In Europe it is important to retain interoperability of Metadata Discovery Services with the INSPIRE Metadata Rules (RD3) and the INSPIRE Discovery Service (DS) (RD5). 
-The INSPIRE DS (RD5) are currently defined as a slightly extended version (profile) of the CSW ISO (RD6). For establishing interoperability between the I15 EP (RD7) and the INSPIRE_DS the document (RD2) defines the required concepts (done within the ESA HMA-T project in 2008-2009). One result of (RD2) is the definition of an “INSPIRE Conformance Class” (ICC) of the I15 EP which restricts the amount of ExtrinsicObjects, Associations, Slots and query capabilities by simultaneously retaining the semantics to that supported within the INSPIRE Discovery Services.
+The INSPIRE DS (RD5) are currently defined as a slightly extended version (profile) of the OGC CSW ISO (RD6). For establishing interoperability between the I15 EP (RD7) and the INSPIRE_DS the document (RD2) defines the required concepts (done within the ESA HMA (HMA-T) project in 2008-2009). One result of (RD2) is the definition of an “INSPIRE Conformance Class” (ICC) of the I15 EP which restricts the amount of ExtrinsicObjects, Associations, Slots and query capabilities by simultaneously retaining the semantics to that supported within the INSPIRE Discovery Services.
 Interoperability between INSPIRE DS and I15 EP (ICC) concerns:
 1.	An INSPIRE_DS client accessing a I15 EP (ICC) service
 2.	A I15 EP (ICC) client accessing an INSPIRE_DS service
